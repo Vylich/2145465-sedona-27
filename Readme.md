@@ -1,3 +1,5 @@
+https://vylich.github.io/2145465-sedona-27/
+
 # Личный проект «Седона» 
 
 * Студент: [Илья Сидоренко](https://up.htmlacademy.ru/adaptive/27/user/2145465).
